@@ -1,0 +1,10 @@
+1.   https://github.com/renpy/dse
+   ~Ren'py dating sim engine actually got me into programming.  It's very cool to find it on github.
+2.   https://github.com/TheComeUpCode/SpotifyGeneratePlaylist
+   ~This is supposed to create a spotify playlist using liked videos from your youtube.  That sounds so useful and fun.
+3.   https://github.com/numegil/MTG-Judge
+   ~I'm trying to be a Magic the Gathering judge and actually use this app for studying and such.
+4.   https://github.com/vincelwt/harmony
+   ~This music player is supposed to take all your music from all your music sites and your local files and play it.  That's a very cool idea!
+5.   https://github.com/github/gitignore
+   ~Finally, the needed and useful list of ignore templates!  This will definitely come in handy.
